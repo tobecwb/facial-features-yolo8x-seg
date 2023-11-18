@@ -13,6 +13,7 @@ Segment the following class:
 Segmentation model specially made to generate image masks for manual editing of images from https://github.com/tobecwb/stable-diffusion-regularization-images
 
 The training was done only with female faces, but initial tests showed that it works reasonably well with male faces too.
+
 ![man_sample](https://raw.githubusercontent.com/tobecwb/facial-features-yolo8x-seg/main/man_sample.jpg)
 
 For better results, it is interesting to train with images of a male face too (I will do this in the future).
