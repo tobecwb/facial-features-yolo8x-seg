@@ -10,7 +10,7 @@ Segment the following class:
 ![woman_sample](https://raw.githubusercontent.com/tobecwb/facial-features-yolo8x-seg/main/woman_sample.jpg)
 --- 
 
-Segmentation model specially made to generate image masks for manual editing of images from https://github.com/tobecwb/stable-diffusion-regularization-images
+Segmentation model specially made to generate image masks for manual editing of images from https://github.com/tobecwb/stable-diffusion-face-dataset
 
 The training was done only with female faces, but initial tests showed that it works reasonably well with male faces too.
 
@@ -28,3 +28,9 @@ https://hub.ultralytics.com/models/JqoT0o5pwOOYxX0wbHT7
 
 Images from:
 https://github.com/tobecwb/stable-diffusion-regularization-images
+
+## Other related projects:
+
+- https://github.com/tobecwb/stable-diffusion-face-dataset
+- https://github.com/tobecwb/facial-features-yolo8x-seg
+- https://github.com/tobecwb/stable-diffusion-regularization-images
